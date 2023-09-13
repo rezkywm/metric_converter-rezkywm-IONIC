@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Metric Converter</string>
+    <string name="title_activity_main">Metric Converter</string>
+    <string name="package_name">com.metricconverter.rezkywm</string>
+    <string name="custom_url_scheme">com.metricconverter.rezkywm</string>
+</resources>
