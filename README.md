@@ -4,7 +4,7 @@
 
 ![alt text][logo]
 
-[logo]: resources\mc_icon.png "Personal Metric Converter Logo"
+[logo]: https://raw.githubusercontent.com/rezkywm/metric_converter-rezkywm-IONIC/main/resources/mc_icon.png "Personal Metric Converter Logo"
 
 The metric system itself was first recognized in the French First Republic in 1799. Then in the early 20th century, a metric system "_Système International d'Unités_" or abbreviated as "**SI**" emerged. This app serves as a converter of several types of commonly used metric systems.
 <br/>
