@@ -44,4 +44,4 @@ The metric system itself was first recognized in the French First Republic in 17
 # 📱 App Demo
 
 <img src="resources\app_in_action.gif" width="360" height="auto" alt="App quick demo in GIF format" style="border-radius:32px"/><br/><br/>
-Download the app over **[here.](#TEMP)** Thank you.
+Download the app over **[here.](https://github.com/rezkywm/metric_converter-rezkywm-IONIC/releases/download/metric_converter_v1.0_final/metric_converter_v1.0_final.apk)** Thank you.
